@@ -1,0 +1,13 @@
+AdventureWorks Sales Territory Export - do not distribute
+
+SalesTerritoryKey,Region,Country,Continent
+1,Northwest,United States,NA
+2,Northeast ,USA,North America
+3,Central,united states,North America
+4,Southwest,United States,North America
+5, Southeast,USA,North America
+6,Canada,canada,North-America
+7,France ,FRANCE,Europe
+8,Germany,Germany,europe
+9,  Australia ,AUS,Pacific
+10,United Kingdom ,U.K.,Europe

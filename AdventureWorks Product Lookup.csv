@@ -1,0 +1,143 @@
+ProductKey,ProductSubcategoryKey,ProductSKU,ProductName,ModelName,ProductColor,ProductSize,ProductCost,ProductPrice
+211,1,CO-Y830-56,"Touring-400 Yellow, 56 ",Touring-400,Yellow,56, 1167.93 ,2936.99
+212,1,BK-Y353-52,"Touring-300 Yellow, 52",Touring-300,Yellow,52,694.29, 1403.22 
+213,1,CO-B107-40," Road-100 Blue, 40",Road-100,Blue,40,$829.48,1390.32
+214,2,CO-B385-44," Mountain-100 Black, 44",Mountain-100,NA,44,1073.67,1594.43
+215,2,AC-G348-44,"Touring-200 Grey, 44",Touring-200,Grey,44,"951,02","$2,338.42"
+216,3,AC-M578-44,"Mountain-100 Multi, 44",Mountain-100,MULTI,44,"893,08","$1,630.01"
+217,3,BK-B354-60,"Touring-100 Black, 60 ",Touring-100,Black,,354.55,$806.20
+218,3,AC-B355-44,"Touring-400 Blue, 44",Touring-400,Blue,,$426.16,$690.46
+219,3,BK-R195-54," Touring-100 Red, 54",Touring-100,Red,54,345.53,898.08
+220,3,BK-B268-42,"Road-400 Blue, 42",Road-400,Blue,42,733.22,"$1,787.28"
+221,4,AC-B392-0,Handlebar Black,Handlebar,Black,0,81.77,191.41
+222,4,BK-M693-0,Handlebar,Handlebar,Multi,0,"48,97",85.99
+223,,AC-G614-0,Handlebar Green ,Handlebar,Green,0,"225,15",$330.65
+224,4,CO-G170-0,Handlebar Green,Handlebar,n/a,0, 19.89 ,39.97
+225,4,CO-R692-0,  Handlebar Red ,Handlebar,,,$122.92, 310.98 
+226,5,CL-R367-0,  Bottom Bracket Red ,Bottom Bracket,Red,,$198.24,$412.00
+227,5,CL-B568-0,Bottom Bracket Blue ,Bottom Bracket,Blue,0, 73.89 ,"138,54"
+228,6,BK-R175-0,  Brake Red ,Brake,Red,0,$139.11,361.43
+229,6,CL-G170-0,Brake Green,Brake,Green,,$153.25, 238.91 
+230,6,CL-B726-0,  Brake Blue ,Brake,Blue,0,$87.64,"168,78"
+231,6,BK-G999-0, Brake Green,Brake,Green,,$201.36,415.91
+232,7,CO-Y378-0,Chain Yellow ,Chain,NA,0,$267.24,612.22
+233,7,CL-Y617-0,  Chain Yellow ,Chain,Yellow,,216.13,"355,39"
+234,7,BK-G749-0,Chain Grey ,Chain,Grey,0,$271.88, 656.68 
+235,8,CL-Y265-0,Crankset Yellow,Crankset,Yellow,0,4.05,$9.42
+236,8,CO-G658-0,  Crankset Grey ,Crankset,Grey,0,169.59,260.19
+237,8,CO-B142-0,Crankset Black,Crankset,Black,0,176.01,$277.69
+238,8,BK-Y466-0,Crankset Yellow,Crankset,Yellow,0,$270.00,$635.94
+239,8,AC-B735-0,Crankset Blue,Crankset,Blue,,$201.08, 366.85 
+240,9,AC-B125-0, Derailleur Blue,Derailleur,Blue,0,"292,93",695.1
+241,9,CO-S373-0, Derailleur Silver,Derailleur,Silver,,$235.37,$445.80
+242,9,AC-S327-0,Derailleur Silver,Derailleur,Silver,0,$116.61, 168.67 
+243,10,CO-G328-0,Fork Grey,Fork,Grey,0, 93.64 ,"220,47"
+244,10,BK-B891-0, Fork Black,Fork,Black,0,121.34,210.44
+245,10,CL-Y128-0, Fork Yellow,Fork,Yellow,0,"193,52",$363.74
+246,11,BK-Y211-0,Headset Yellow,Headset,Yellow,0,"175,44","452,68"
+247,11,BK-M494-0, Headset,Headset,Multi,0,"219,38","389,71"
+248,12,CO-Y472-0,  Mountain Frame Yellow ,Mountain Frame,Yellow,,$213.51,299.35
+249,12,CL-M779-0,Mountain Frame,Mountain Frame,NA,0,"284,82","713,45"
+250,12,CL-R512-0, Mountain Frame Red,Mountain Frame,Red,0,$153.62, 338.01 
+251,13,AC-G793-0,Pedal Green,Pedal,Green,,59.98,$131.83
+252,13,CL-S393-0,Pedal Silver,Pedal,Silver,,123.6,$296.70
+253,13,CL-B576-0,Pedal Blue,Pedal,Blue,,"236,37",502.99
+254,13,CO-G774-0,Pedal Grey,Pedal,Grey,,203.66,$410.05
+255,14,CO-Y788-0,Road Frame Yellow,Road Frame,n/a,0,"30,74",$78.15
+256,,BK-Y350-0,Road Frame Yellow ,Road Frame,Yellow,0,242.55,382.46
+257,15,CO-R835-0,  Saddle Red ,Saddle,,0,126.09,271.81
+258,15,BK-M868-0, Saddle,Saddle,multi,0,$121.70,191.93
+259,15,AC-R151-0,Saddle Red,Saddle,Red,0,$68.00,"160,82"
+260,15,CO-G920-0, Saddle Green,Saddle,Green,0,$275.49,"425,81"
+261,15,AC-G950-0,Saddle Grey,Saddle,Grey,0,$285.16,$704.26
+262,16,CL-S884-0,Touring Frame Silver,Touring Frame,Silver,0,136.67,314.63
+263,16,BK-G830-0, Touring Frame Green,Touring Frame,Green,0,189.14,327.12
+264,16,BK-Y241-0,Touring Frame Yellow,Touring Frame,Yellow,0,"83,70",149.29
+265,16,CO-S165-0,Touring Frame Silver,Touring Frame,Silver,,116.76, 184.87 
+266,16,BK-M311-0,Touring Frame ,Touring Frame,Multi,0,$101.27,198.4
+267,17,AC-M588-0,Wheel ,Wheel,multi,, 257.45 , 596.95 
+268,17,AC-B651-0,Wheel Black,Wheel,Black,,91.69,171.28
+269,17,AC-G129-0,Wheel Green,Wheel,Green,0,148.0,255.67
+270,17,CO-M960-0,  Wheel ,Wheel,MULTI,0,201.66,"475,47"
+271,17,AC-G706-0,Wheel Grey,Wheel,Grey,0,294.27,"600,59"
+272,18,BK-R366-XL,"  Bib-Short, Red, XL ",Bib-Short,Red,XL,"15,06", 29.43 
+273,18,AC-M384-L," Bib-Short, Multi, L",Bib-Short,Multi,L,19.01,34.07
+274,19,BK-Y458-S,"Cap, Yellow, S",Cap,Yellow,,$32.46,74.62
+275,19,BK-B353-S," Cap, Blue, S",Cap,Blue,S,48.62,$106.09
+276,19,AC-B785-S," Cap, Blue, S",Cap,Blue,S, 40.31 ,$67.97
+277,19,CL-R271-M," Cap, Red, M",Cap,Red,,32.18,54.95
+278,19,BK-R419-M,"Cap, Red, M ",Cap,Red,,58.17,$88.98
+279,,CO-M204-M," Glove, Multi, M",Glove,Multi,M,11.95, 26.63 
+280,20,BK-Y455-S," Glove, Yellow, S",Glove,Yellow,S,"49,40",$102.71
+281,20,CL-G112-XL,"  Glove, Green, XL ",Glove,Green,XL,42.4,62.87
+282,20,AC-M824-XL," Glove, Multi, XL",Glove,multi,XL,13.49,$34.44
+283,20,CL-S730-XL,"Glove, Silver, XL ",Glove,Silver,, 17.16 ,34.77
+284,,CL-G972-XL,"Jersey, Grey, XL",Jersey,Grey,XL,"50,94","107,53"
+285,21,AC-B683-S," Jersey, Blue, S",Jersey,Blue,S,22.5,$43.67
+286,21,CO-M599-L,"Jersey, Multi, L ",Jersey,Multi,L,9.49,22.98
+287,21,CL-B669-L,"  Jersey, Blue, L ",Jersey,Blue,L,$49.49,89.5
+288,,AC-B668-M,"Jersey, Black, M ",Jersey,Black,,12.45,"28,19"
+289,22,CL-G326-XL,"Short, Grey, XL",Short,Grey,XL,$31.31,44.48
+290,22,AC-M666-M," Short, Multi, M",Short,multi,M,23.92,50.18
+291,22,CL-G460-L,"Short, Green, L",Short,Green,L, 30.13 ,69.15
+292,23,CO-Y423-L,"Sock, Yellow, L",Sock,Yellow,L,21.07,32.55
+293,23,CL-R841-M," Sock, Red, M",Sock,Red,M,"17,96",41.06
+294,23,CL-G332-L,"Sock, Green, L ",Sock,Green,L,58.99,"141,53"
+295,23,CO-W380-M,"Sock, White, M",Sock,White,,$23.72,53.36
+296,23,CO-B753-S,"Sock, Black, S",Sock,Black,,$36.77,82.25
+297,,AC-R448-S," Tight, Red, S",Tight,Red,,"37,85","74,31"
+298,24,BK-S941-S,"Tight, Silver, S",Tight,Silver,,"21,13",51.43
+299,24,BK-R255-XL,"Tight, Red, XL ",Tight,Red,XL,$33.57,$70.24
+300,24,AC-S720-L,"Tight, Silver, L ",Tight,Silver,L,$12.43,$21.10
+301,24,AC-B412-XL,"Tight, Blue, XL ",Tight,Blue,, 31.43 ,$60.70
+302,25,BK-R260-M,"Vest, Red, M",Vest,Red,M,$40.53,69.61
+303,25,AC-B561-M,"Vest, Blue, M ",Vest,Blue,M, 36.7 ,58.27
+304,26,AC-Y172-0,Bike Rack Yellow,Bike Rack,Yellow,0,71.75, 161.32 
+305,26,CO-B535-0, Bike Rack Blue,Bike Rack,Blue,,$236.98,509.52
+306,26,CO-R173-0,Bike Rack Red,Bike Rack,Red,0,$195.35,"486,44"
+307,26,CL-B549-0,Bike Rack Black,Bike Rack,Black,,238.41,$504.01
+308,26,CL-R612-0,  Bike Rack Red ,Bike Rack,Red,0,"207,54",464.82
+309,27,CL-G718-0, Bike Stand Grey,Bike Stand,Grey,,"180,62",445.65
+310,27,BK-Y883-0,Bike Stand Yellow ,Bike Stand,NA,0,30.12,$76.94
+311,27,AC-Y384-0,Bike Stand Yellow ,Bike Stand,Yellow,0,$229.64,369.77
+312,27,BK-S581-0,Bike Stand Silver,Bike Stand,Silver,0,191.53,381.16
+313,27,CO-W437-0,Bike Stand White,Bike Stand,White,,"101,99",224.8
+314,28,BK-G565-0,Bottles and Cage Grey,Bottles and Cage,NA,,$199.79,$375.71
+315,28,AC-R985-0, Bottles and Cage Red,Bottles and Cage,Red,, 77.96 ,119.99
+316,28,AC-G155-0,Bottles and Cage Green,Bottles and Cage,Green,0, 198.33 ,406.8
+317,28,AC-B878-0,  Bottles and Cage Blue ,Bottles and Cage,Blue,0,$187.92,375.5
+318,28,CL-B548-0,Bottles and Cage Black ,Bottles and Cage,Black,0,82.32, 128.19 
+319,29,CO-R826-0,Cleaner Red ,Cleaner,NA,0,$292.02,$622.19
+320,29,BK-S330-0,Cleaner Silver ,Cleaner,Silver,,$166.60,"343,65"
+321,29,CO-R610-0,Cleaner Red,Cleaner,Red,0, 284.28 , 618.95 
+322,,AC-Y349-0,Cleaner Yellow,Cleaner,Yellow,0,126.4,$250.15
+323,29,CO-G984-0,  Cleaner Grey ,Cleaner,Grey,,116.93, 293.05 
+324,30,CL-Y940-0,  Fender Yellow ,Fender,Yellow,,103.94,243.77
+325,30,AC-B986-0,Fender Black,Fender,Black,0,218.64,$525.82
+326,31,AC-G566-0,Helmet Grey ,Helmet,Grey,,105.5,$217.57
+327,31,AC-W339-0,Helmet White,Helmet,White,0,294.29,496.34
+328,,AC-M495-0, Helmet,Helmet,MULTI,0, 97.5 , 191.84 
+329,32,CL-G990-0,Hydration Pack Grey ,Hydration Pack,Grey,0,$40.50,103.62
+330,32,BK-R839-0,Hydration Pack Red ,Hydration Pack,Red,, 32.61 ,81.28
+331,32,BK-S580-0,Hydration Pack Silver ,Hydration Pack,Silver,0,261.67,670.91
+332,33,AC-W424-0,Light White,Light,White,0, 196.0 ,474.74
+333,33,CL-G332-0,Light Grey,Light,Grey,,186.39,$313.46
+334,33,BK-R554-0,Light Red,Light,Red,0,293.57,$678.86
+335,33,BK-S400-0, Light Silver,Light,Silver,0,$271.32,394.82
+336,34,CO-W274-0,Lock White,Lock,White,,46.23,$94.19
+337,34,CO-S609-0,Lock Silver ,Lock,Silver,0, 184.02 ,"342,10"
+338,34,CL-S782-0,Lock Silver ,Lock,Silver,0,139.96,238.6
+339,34,CO-B175-0,Lock Black,Lock,Black,0,$270.66,599.01
+340,35,CL-W567-0,Pannier White ,Pannier,White,0,$192.76,368.01
+341,35,BK-Y342-0,Pannier Yellow,Pannier,Yellow,,$299.81,$726.74
+342,35,CL-M122-0,Pannier,Pannier,Multi,,173.72,$450.15
+343,35,BK-M720-0,Pannier ,Pannier,multi,0,$5.41, 13.19 
+344,35,CL-G324-0, Pannier Grey,Pannier,Grey,0,233.4,$391.21
+345,36,BK-Y416-0,Pump Yellow,Pump,Yellow,0,"189,59",470.96
+346,,BK-G402-0,Pump Grey,Pump,NA,,"175,13",399.09
+347,36,CL-W643-0, Pump White,Pump,White,,"55,17",85.99
+348,37,CL-S864-0,Tires and Tube Silver,Tires and Tube,Silver,0,274.47,695.24
+349,37,CO-W980-0,Tires and Tube White,Tires and Tube,White,0,142.09,211.77
+350,37,CL-M649-0,Tires and Tube,Tires and Tube,MULTI,0,$29.82,$55.87
+351,37,CL-R698-0,Tires and Tube Red ,Tires and Tube,Red,0,112.47, 258.55 
+245,10,CL-Y128-0,Fork Yellow,Fork,Yellow,0,$193.52,$363.74
